@@ -5,10 +5,6 @@ Here's a comprehensive README.md file for your GitHub repository:
 
 A beautiful, responsive wedding website built with React, Tailwind CSS, and Babel. This single-page application features a countdown timer, photo gallery, raffle system, location information, and more for Vitória & João's wedding.
 
-## Live Demo
-
-Check out a live example:(https://alexandrevitoriatest.vercel.app/)
-
 ## Features
 
 - 🎉 Elegant wedding homepage with hero section
@@ -27,6 +23,8 @@ Check out a live example:(https://alexandrevitoriatest.vercel.app/)
    git clone https://github.com/yourusername/wedding-website.git
    cd wedding-website
    ```
+
+Check out a live example:(https://alexandrevitoriatest.vercel.app/)
 
 2. **Open the HTML file**:
    Simply open the `index.html` file in any modern web browser. No server required as it uses CDN links for all dependencies.
