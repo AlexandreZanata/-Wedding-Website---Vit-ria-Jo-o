@@ -7,7 +7,7 @@ A beautiful, responsive wedding website built with React, Tailwind CSS, and Babe
 
 ## Live Demo
 
-Check out a live example: [Wedding Website Demo](https://alexandrevitoriatest.vercel.app/)
+Check out a live example:(https://alexandrevitoriatest.vercel.app/)
 
 ## Features
 
