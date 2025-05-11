@@ -3,8 +3,6 @@ Here's a comprehensive README.md file for your GitHub repository:
 ```markdown
 # Wedding Website - Vitória & João
 
-![Wedding Website Preview](https://images.unsplash.com/photo-1519225421980-715cb0215aed?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-
 A beautiful, responsive wedding website built with React, Tailwind CSS, and Babel. This single-page application features a countdown timer, photo gallery, raffle system, location information, and more for Vitória & João's wedding.
 
 ## Live Demo
